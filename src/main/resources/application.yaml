@@ -1,1 +1,10 @@
-spring.application.name=bff-agendador-tarefas
+spring:
+  application:
+    name: bff-agendador-tarefas
+
+usuario:
+  url: localhost:8080/usuario
+
+server:
+  port: 8084
+

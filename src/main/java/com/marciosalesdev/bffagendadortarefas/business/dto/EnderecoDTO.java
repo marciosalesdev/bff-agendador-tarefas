@@ -1,4 +1,4 @@
-package com.marciosalesdev.usuario.business.dto;
+package com.marciosalesdev.bffagendadortarefas.business.dto;
 
 import lombok.*;
 
